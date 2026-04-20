@@ -261,5 +261,5 @@ MIT License — see [LICENSE](LICENSE)
 
 <p align="center">
   <strong>Built with ❤️ by <a href="https://srjahir.in">SRJahir Tech</a></strong><br>
-  <sub>Cloud & DevOps Engineer • Rajkot, India</sub>
+  <sub>Cloud & DevOps Engineer</sub>
 </p>
